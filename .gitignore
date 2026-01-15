@@ -1,0 +1,11 @@
+# Only track Claude skills in this repo
+*
+
+!.gitignore
+!.claude/
+!.claude/skills/
+!.claude/skills/**
+
+# macOS / Python
+.DS_Store
+.venv/
