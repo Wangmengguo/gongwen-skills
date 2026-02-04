@@ -6,6 +6,14 @@
 !.claude/skills/
 !.claude/skills/**
 
+# Also track OpenCode skills (exclude selected ones)
+!.opencode/
+!.opencode/skill/
+!.opencode/skill/**
+.opencode/skill/json-canvas/
+.opencode/skill/obsidian-bases/
+.opencode/skill/obsidian-markdown/
+
 # macOS / Python
 .DS_Store
 .venv/
