@@ -2,9 +2,6 @@
 *
 
 !.gitignore
-!.claude/
-!.claude/skills/
-!.claude/skills/**
 
 # Also track OpenCode skills (exclude selected ones)
 !.opencode/
